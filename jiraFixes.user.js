@@ -2,6 +2,7 @@
 // @name           Some minor fixes for JIRA
 // @namespace      https://github.com/talmuth/jiraFixes.user.js
 // @description    Some minor fixes for JIRA
+// @include        https://jira.odesk.com/*
 // @include        http://jira.odesk.com/*
 // @updateURL      http://bit.ly/bpa-ag-jira-js-tweaks-v2
 // @version        0.14.1
